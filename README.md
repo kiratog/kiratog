@@ -13,7 +13,7 @@ A full-stack platform that curates long-form educational YouTube videos using to
 `React` `Node.js` `Express` `MongoDB` `YouTube Data API`
 
 ### [Sai Coaching Center website](https://github.com/kiratog/coaching-website)
-A responsive website I designed, built and deployed for a local coaching center, from first idea to live on Vercel.  
+A responsive website I designed, built and deployed for a fictional coaching center, from first idea to live on Vercel.  
 `HTML` `CSS` `JavaScript` `Vercel`
 
 ### [My portfolio](https://klightic.vercel.app)
