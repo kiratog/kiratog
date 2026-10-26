@@ -2,7 +2,7 @@
 
 **B.Tech CSE student · Full-stack web developer · UI designer**
 
-I build fast, clean web apps with React, Node.js and MongoDB. I sketch the layout in Figma first, then code it. Right now I'm learning **NerdU** and making websites for local businesses.
+I build fast, clean web apps with React, Node.js and MongoDB. I sketch the layout in Figma first, then code it. Right now I'm learning and making websites for local businesses.
 
 ---
 
