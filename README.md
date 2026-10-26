@@ -21,12 +21,6 @@ My personal site with my work and contact details.
 
 ---
 
-## 🏆 Highlights
-
-- 🥇 **1st Prize**, project expo at SITAMS, Chittoor (March 2026). Team project **MFBAS**, focused on making login systems more secure and easier to use.
-
----
-
 ## 🧰 Tech I use
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
