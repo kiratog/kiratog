@@ -1,4 +1,4 @@
-# Hi, I'm Kiran 👋
+# Hello there!, I'm Kiran 👋
 
 **B.Tech CSE student · Full-stack web developer · UI designer**
 
