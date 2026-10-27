@@ -1,8 +1,7 @@
+# Hello there!, I'm Kiran 👋
+
 
 <img width="750" height="316" alt="Venky hunching over his computer" src="https://github.com/user-attachments/assets/018fd537-b557-4328-8eb6-672cc6a5a341" />
-
-
-# Hello there!, I'm Kiran 👋
 
 **B.Tech CSE student · Full-stack web developer · UI designer**
 
