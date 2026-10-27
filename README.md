@@ -1,4 +1,6 @@
-<img src="[https://giffiles.alphacoders.com/171/171294.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ5aW4yanNhd2Y0anp6NGowNjd5OHh5eWFyNnVzdHFybzV3Zzk2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jvwye2GYmZctn5MWTR/giphy.gif)" width="400"/>
+
+<img width="750" height="316" alt="Venky hunching over his computer" src="https://github.com/user-attachments/assets/018fd537-b557-4328-8eb6-672cc6a5a341" />
+
 
 # Hello there!, I'm Kiran 👋
 
